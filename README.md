@@ -1,4 +1,5 @@
 # Data-Gini-Index
+Census tract level - Gini Index of Income Inequality
 
 ## Household Income Inequality
 
